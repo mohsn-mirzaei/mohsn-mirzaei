@@ -52,12 +52,7 @@ I'm a frontend-focused full-stack engineer with 4+ years of experience designing
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsn-mirzaei&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsn-mirzaei&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsn-mirzaei&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
 ---
